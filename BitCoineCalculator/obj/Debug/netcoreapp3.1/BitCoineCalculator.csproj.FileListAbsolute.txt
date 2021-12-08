@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.exe
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.deps.json
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.dll
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\BitCoineCalculator.pdb
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.csproj.CopyComplete
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.dll
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.pdb
+C:\Users\opilane\source\repos\logitpe21\BitCoineCalculator\BitCoineCalculator\obj\Debug\netcoreapp3.1\BitCoineCalculator.genruntimeconfig.cache
