@@ -14,17 +14,28 @@ namespace BitCoineCalculator
             Console.WriteLine($"{currentBitcoin.disclaimer}");
 
             Console.WriteLine("Calculate in: EUR/USD/GBP");
-            string userChoice = Console.ReadLine();
+            string userCurrency = Console.ReadLine();
             Console.WriteLine("Enter the amount of bitcoin");
             float userCoins = float.Parse(Console.ReadLine());
-            float currentRate = 0;
+            float currentCoinRate = 0;
 
-            if (userChoice == "EUR")
+            if (userCurrency == "EUR")
             {
-                currentRate = currentBitcoin.bpi.EUR.rate_float;
+                currentCoinRate = currentBitcoin.bpi.EUR.rate_float;
             }
-            float result = currentRate * userCoins;
-            Console.WriteLine($"Your bitcoin are worth {result}{userChoice}");
+            else if (userCurrency == "USD")
+            {
+                currentCoinRate = currentBitcoin.bpi.USD.rate_float;
+                userCurrency = currentBitcoin.bpi.USD.code;
+            }
+            else if (userCurrency == "GBP")
+            {
+                currentCoinRate = currentBitcoin.bpi.USD.rate_float;
+                userCurrency = currentBitcoin.bpi.USD.code;
+            }
+
+            float result = currentCoinRate * userCoins;
+            Console.WriteLine($"Your bitcoin are worth {result}{userCurrency}");
 
             
         }
